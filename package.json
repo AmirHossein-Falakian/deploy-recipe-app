@@ -2,6 +2,7 @@
     "name": "recipeapp",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://amirhfalakian.github.io/deploy-recipe-app",
     "dependencies": {
         "@splidejs/react-splide": "^0.7.6",
         "@testing-library/jest-dom": "^5.16.4",
